@@ -1,2 +1,2 @@
 # CutBlocks
-simple chrome.ext
+simple chrome extention
