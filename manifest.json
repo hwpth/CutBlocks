@@ -4,7 +4,7 @@
     "name": "Cut Blocks",
     "description": "Tool to remove the clicked HTML element.",
     "version": "1.0",
-    "author": "rSr4r",
+    "author": "hwpth",
 
     "permissions": [
         "contextMenus",
@@ -27,6 +27,8 @@
         "scripts": ["background.js"],
         "persistent": true
     },
+
+    "options_page": "options.html",
 
     "content_scripts": [{
         "matches":  ["*://*/*"],
